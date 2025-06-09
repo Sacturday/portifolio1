@@ -302,13 +302,13 @@ footer{
 		margin:5px 0
 	}
 	
-section{
+    section{
 	padding:5px
-}
+    }
 
-footer{
+    footer{
 	padding:0px
-}
+    }
 }
 
 @media(min-width:600px)and(max-width:1024px){
@@ -321,16 +321,16 @@ footer{
 		text-align:center
 	}
 	
-	nav li{
-		padding:0px 10px
-}
+    nav li{
+        padding:0px 10px
+    }
 
-	section{
-		padding:30px
-}
-	footer{
-	padding:0px
-}
+    section{
+        padding:30px
+    }
+    footer{
+        padding:0px
+    }
 }
 
 @media(min-width:1025px){
@@ -345,12 +345,12 @@ footer{
 	
 	nav li{
 		padding:0px 15px
-}
+    }
 
-	section{
-		padding:50px
-}
+    section{
+        padding:50px
+    }
     footer{
-	    padding:0px
-}
+        padding:0px
+    }
 }
